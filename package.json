@@ -1,0 +1,31 @@
+{
+  "name": "emo-diff-cover",
+  "version": "0.1.1",
+  "description": "calculate unit test increment line coverage",
+  "keywords": [
+    "increment line coverage"
+  ],
+  "main": "index.js",
+  "scripts": {},
+  "bin": {
+    "emo": "bin/emo.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xwcoder/emo.git"
+  },
+  "devDependencies": {
+    "@types/node": "^14.6.3",
+    "eslint": "^7.8.1",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-sonarjs": "^0.5.0"
+  },
+  "dependencies": {
+    "cli-table3": "^0.6.0",
+    "commander": "^6.1.0",
+    "shelljs": "^0.8.4"
+  }
+}
