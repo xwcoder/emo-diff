@@ -1,6 +1,6 @@
 {
   "name": "emo-diff-cover",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "calculate unit test increment line coverage",
   "keywords": [
     "increment line coverage"
